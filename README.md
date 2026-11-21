@@ -164,3 +164,16 @@ python -m unittest discover -s tests -t . -v
 - Экран возврата кассира учитывает открытую смену.
 - Интерфейс спокойнее: приглушённый фон-«звёзды», панели без свечения, шрифты мельче 10 pt убраны.
 - Тесты: `python -m unittest discover -s tests` (354 теста; GUI-тесты идут на заглушке tkinter).
+
+<img width="1328" height="768" alt="Снимок экрана — 2026-11-21 в 23 05 54" src="https://github.com/user-attachments/assets/a9bd6eb7-0d11-40d8-ac8e-07a5307010aa" />
+
+<img width="1320" height="803" alt="Снимок экрана — 2026-11-21 в 23 06 45" src="https://github.com/user-attachments/assets/8e4a1edb-69d6-45ca-a425-62eb3ce82f35" />
+
+<img width="1330" height="807" alt="Снимок экрана — 2026-11-21 в 23 07 04" src="https://github.com/user-attachments/assets/9b8e0172-aeb6-4940-80c3-cd900459ba64" />
+
+
+<img width="1322" height="829" alt="Снимок экрана — 2026-11-21 в 23 07 24" src="https://github.com/user-attachments/assets/74fd35eb-1147-4256-b684-adf3239df803" />
+
+
+
+
